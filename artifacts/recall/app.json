@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "Recall",
+    "name": "my 問題集",
     "slug": "recall",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -10,7 +10,7 @@
     "splash": {
       "image": "./assets/images/icon.png",
       "resizeMode": "contain",
-      "backgroundColor": "#F7F8F4"
+      "backgroundColor": "#f1f2f4"
     },
     "ios": {
       "supportsTablet": false
