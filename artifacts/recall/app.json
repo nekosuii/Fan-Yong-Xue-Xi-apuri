@@ -27,7 +27,8 @@
     ],
     "experiments": {
       "typedRoutes": true,
-      "reactCompiler": true
+      "reactCompiler": true,
+      "baseUrl": "/Fan-Yong-Xue-Xi-apuri"
     }
   }
 }
